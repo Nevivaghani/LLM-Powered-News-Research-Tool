@@ -66,13 +66,13 @@ echo "GOOGLE_API_KEY=your_api_key_here" > .env
 Run the following command to process and store document embeddings:
 
 ```sh
-python main.py
+poetry run python main.py
 ```
 
 ### 🎯 Running the Streamlit App
 
 ```sh
-streamlit run main.py
+poetry run streamlit run main.py
 ```
 
 Enter your **question** in the UI, and the app will retrieve the most relevant response from the knowledge base.
