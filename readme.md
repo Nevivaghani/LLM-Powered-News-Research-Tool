@@ -77,6 +77,31 @@ poetry run streamlit run main.py
 
 Enter your **question** in the UI, and the app will retrieve the most relevant response from the knowledge base.
 
----
 
 ```
+
+---
+
+## Screenshots
+
+![App Screenshot][def]
+
+![App Screenshot][def2]
+
+![App Screenshot][def3]
+
+![App Screenshot][def3]
+
+![App Screenshot][def3]
+
+
+
+[def]: ./assets/codebasics2.png
+
+[def2]: ./assets/codebasics3.png
+
+[def3]: ./assets/codebasics4.png
+
+[def4]: ./assets/codebasics5.png
+
+---
