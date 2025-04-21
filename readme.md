@@ -1,4 +1,4 @@
-# 🧠 LLM-Powered News Research Tool
+# 🧠 CODEBASICS FAQs
 
 The **LLM-Powered News Research Tool** is a **Streamlit-based** application that enables users to extract, process, and analyze news articles using **Google Generative AI (Gemini)**. It leverages **FAISS** for efficient document retrieval and **LangChain** for seamless integration of LLM-based embeddings and question-answering capabilities.
 ## ✨ Features
