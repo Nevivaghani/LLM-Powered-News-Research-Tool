@@ -1,9 +1,6 @@
 # 🧠 LLM-Powered News Research Tool
 
 The **LLM-Powered News Research Tool** is a **Streamlit-based** application that enables users to extract, process, and analyze news articles using **Google Generative AI (Gemini)**. It leverages **FAISS** for efficient document retrieval and **LangChain** for seamless integration of LLM-based embeddings and question-answering capabilities.
-
----
-
 ## ✨ Features
 
 - ✅ Accepts CSV files as input for FAQs.
@@ -13,7 +10,6 @@ The **LLM-Powered News Research Tool** is a **Streamlit-based** application that
 - ✅ Provides a user-friendly **Streamlit** interface for interaction.
 - ✅ Retrieves relevant information efficiently from stored knowledge base.
 
----
 
 ## 🛠️ Technologies Used
 
@@ -24,9 +20,6 @@ The **LLM-Powered News Research Tool** is a **Streamlit-based** application that
 - **Google Generative AI (Gemini)** - Embeddings & Q&A
 - **HuggingFace InstructEmbeddings** - Embedding model
 - **dotenv** - API key management
-
----
-
 ## 📦 Installation
 
 ### 🔹 Prerequisites
@@ -77,15 +70,25 @@ poetry run streamlit run main.py
 
 Enter your **question** in the UI, and the app will retrieve the most relevant response from the knowledge base.
 
+    
 
-```
 
 ## Screenshots
 
-![App Screenshot](./assets/codebasics2.png)
+![App Screenshot][def]
 
-![App Screenshot](./assets/codebasics3.png)
+![App Screenshot][def2]
 
-![App Screenshot](./assets/codebasics4.png)
+![App Screenshot][def3]
 
-![App Screenshot](./assets/codebasics5.png)
+![App Screenshot][def4]
+
+
+
+[def]: ./assets/codebasics2.png
+
+[def2]: ./assets/codebasics3.png
+
+[def3]: ./assets/codebasics4.png
+
+[def4]: ./assets/codebasics5.png
