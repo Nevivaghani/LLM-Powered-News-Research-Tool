@@ -90,9 +90,7 @@ Enter your **question** in the UI, and the app will retrieve the most relevant r
 
 ![App Screenshot][def3]
 
-![App Screenshot][def3]
-
-![App Screenshot][def3]
+![App Screenshot][def4]
 
 
 
