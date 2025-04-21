@@ -80,26 +80,12 @@ Enter your **question** in the UI, and the app will retrieve the most relevant r
 
 ```
 
----
-
 ## Screenshots
 
-![App Screenshot][def]
+![App Screenshot](./assets/codebasics2.png)
 
-![App Screenshot][def2]
+![App Screenshot](./assets/codebasics3.png)
 
-![App Screenshot][def3]
+![App Screenshot](./assets/codebasics4.png)
 
-![App Screenshot][def4]
-
-
-
-[def]: ./assets/codebasics2.png
-
-[def2]: ./assets/codebasics3.png
-
-[def3]: ./assets/codebasics4.png
-
-[def4]: ./assets/codebasics5.png
-
----
+![App Screenshot](./assets/codebasics5.png)
